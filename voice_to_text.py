@@ -6,7 +6,7 @@ import json
 import threading
 from PyQt6.QtWidgets import QApplication, QWidget, QTextEdit, QPushButton, QVBoxLayout
 
-MODEL_PATH = "C:\\Users\\Admin\\OneDrive\\Desktop\\VScode\\vosk-model-small-en-us-0.15"
+MODEL_PATH = "# path of vosk-model-small-en-us-0.15"
 q = queue.Queue()
 recording = False
 
